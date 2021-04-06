@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This blog is about understanding technologies around big data and machine learning. 
   My motto is "before you fire up your data science artillery,
    make sure you cause more good than harm."
-baseurl: "understandableds" # the subpath of your site, e.g. /blog
+baseurl: "/understandableds" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jguo42
 github_username:  genccal
