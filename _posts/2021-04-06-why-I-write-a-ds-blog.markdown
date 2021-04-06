@@ -15,13 +15,13 @@ They are no trivial questions and they are probably the most important questions
 1. I am a student in data science literally and will always be one figuratively. It comes as no surprise to anyone that one should understand thoroughly what one studies. 
 2. Data Science as a discipline is both broad and deep. It is both fascinating and mind-blogging to me what it has in store for us, businesses and societies alike. 
 I would like to liken it to modern alchemy. 
-Businesses are allured to try it out and hope to discover data-turned silver and gold. 
-I think we need a more down-to-earth approach to examine what it can and cannot do. I do not write to sell you any data analytics solutions but serve as a dispassionate reviewer and reason with you when it is powerful and practical and when it is not.       
+Businesses are allured to commission data science projects and hope to discover data-turned silver and gold. 
+I think we need a more down-to-earth approach to examine what it can and cannot do. I do not write to sell you any data analytics solutions but serve as a dispassionate reviewer and reason with you when it is powerful and practical and when it is not.
 
 &nbsp;
 * Why blogging?
-1. Explaining is the most effective way to learn in my own experience. Explaining in writing is even better. I can carefully choose my response and deliberate over what is the best way to break down a complex concept and deliver an accessible rendition of it. 
-2. I have a passion for writing. I have been itching for writing for a long time. I write to know myself, to organize my thoughts, to gain clarity into matters I care about. As of recent, I feel a strong need to answer my own questions related to data science. Many interrupted and hung-up instances at the back of my mind occupy me and I have a penchant for sorting them out. For self-love, for cleansing, for optimized processes, I am down to write them out. Do not worry. I will not ventilate my anger or frustration with bugs in this blog. I write in a calm and sensible way. It is self-discipline or self-improvement or (both). 
+1. Explaining is the most effective way to learn in my own experience. Explaining in writing is even better. I can carefully deliberate over what is the best way to break down a complex concept and deliver an accessible rendition of it. It's chiefly for my own benefit. If it is interesting to others as well, I would be over the moon.  
+2. I have a passion for writing. I write to know myself, to organize my thoughts, and to gain clarity into matters I care about. As of recent, I feel a strong need to answer my own questions related to data science. Many interrupted and hung-up instances at the back of my mind occupy me and I have a penchant for sorting them out. For self-love, for cleansing, for optimized processes, I am down to write them out. Do not worry. I will not ventilate my anger or frustration with bugs in this blog. Instead, I strive to write in a calm and sensible way. It is self-discipline or self-improvement or (both). 
 3. Data Science is evolving fast. I need to form a habit to keep track of its developments and renew my own knowledge.
 4. The social effect is not to ignore. I could have kept a private journal about my tech skill developments. What do I expect from people who read my blogs? I savor your comments and thoughts on my content. Tell me how I can improve it and how you would interprete or do it differently. 
 
@@ -62,3 +62,4 @@ My name is Jian. It is a Chinese name, which means healthy. The character is 健
 Besides my passion for data science, I love reading, writing, cycling and learning languages. 
 To disambiguate it, I love to learn _natural_ languages. Currently I am obsessed with French.
 For programming languages, I am fluent in Python and Java and a beginner in Scala.  
+Please feel free to contact me if you would like to know more about me.
