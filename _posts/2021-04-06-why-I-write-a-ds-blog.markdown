@@ -26,7 +26,7 @@ I think we need a more down-to-earth approach to examine what it can and cannot 
 
 * What format?
 1. I will write in series by topic. Some topics, due to its nature, are better approached this way, for example, big data ecosystem from Hadoop, Hive, HBase to Spark.
-2. I love examples. My personal learning benefits a lot from illuminating examples. I would also do so to treat my readers. :wink:
+2. I love examples. My personal learning benefits a lot from illuminating examples. I would also do so to treat my readers.
 
 * What technology I use to write this blog?
 This is not related to my motivation. However, it is a good habit to keep: always log down why you choose a technology for a job for auditting.
