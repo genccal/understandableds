@@ -21,11 +21,9 @@
 title: Understandable Data Science
 email: j.guo.ffm@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is all about understanding big data and machine learning. My motto 
-  is "before you apply your artillery in data science,
-   make sure you fire more good than harm." The unique selling point of this blog, 
-   if you hard-press me for it, is the accessbile and plain language I will use to 
-   clarify techonoligy and methods in data science. 
+  This blog is about understanding technologies around big data and machine learning. 
+  My motto is "before you fire up your data science artillery,
+   make sure you cause more good than harm."
 baseurl: "understandableds" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jguo42
